@@ -6,7 +6,7 @@ require "mytestgem/version"
 Gem::Specification.new do |spec|
   spec.name          = "mytestgem"
   spec.version       = Mytestgem::VERSION
-  spec.authors       = ["George Chen"]
+  spec.authors       = ["georgeChen"]
   spec.email         = ["1255187024@qq.com"]
 
   spec.summary       = %q{Write a short summary, because RubyGems requires one.}
